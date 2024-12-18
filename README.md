@@ -1,4 +1,4 @@
-# alejandrakharina.github.i
+# alejandrakharina.github.io
 ## Mi Portafolio Profesional
 
 ¡Bienvenido a mi página de portafolio como Analista de Datos! Aquí podrás encontrar información sobre mis proyectos y habilidades.
